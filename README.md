@@ -28,6 +28,7 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 
 ## 🖥️ Programming Languages
 My *forte* is:  
+  
 ![Typescript (advanced)](https://img.shields.io/badge/Typescript-advanced-blue?style=for-the-badge&logo=typescript)
 ![PHP (advanced)](https://img.shields.io/badge/PHP-advanced-blue?style=for-the-badge&logo=php)  
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-intermediate-orange?style=for-the-badge&logo=.Net)
@@ -49,10 +50,8 @@ Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4
 [![Linkedin](https://img.shields.io/badge/Linkedin-Sanghui%20Park-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex4386/)
 [![Keybase](https://img.shields.io/badge/Keybase-alex4386-004386?style=for-the-badge&logo=keybase)](https://keybase.io/alex4386)
 [![Discord](https://img.shields.io/badge/Discord-join!-004386?style=for-the-badge&logo=discord)](https://discord.com/invite/xpbMQPa)
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)  
-You can receive my GPG public key by clicking the badge above or [here](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)  
 
-Want to see more contacts? (include gaming!) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
+Want to see more contacts? (include gaming! and GPG Keys) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
 
 ## ☕ Buy me a coffee
 [![Buy me a coffee](https://img.shields.io/badge/Paypal-Buy%20me%20a%20coffee-004386?style=for-the-badge&logo=paypal)](https://paypal.me/alex4386)
