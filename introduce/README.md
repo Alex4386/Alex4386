@@ -11,7 +11,7 @@ I graduated [Yeouido Highschool](https://yeouido.hs.kr) at Febuary, 2019.
 ### Currently...
 I am CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
 I am currently at [Team-StarGarden](https://github.com/Team-StarGarden) as game developer and web backend developer.  
-I am also at [Paywork Inc.](https://github.com/payworkteam) as React Native Frontend Developer and Backend maintenance crew.
+I am also at [Paywork Inc.](https://github.com/payworkteam) as Backend Developer and Maintenance.
 
 ### Formerly...
 I was System Administrator at [MintNetwork (webpage now defunct)](https://playmintnetwork.com) as their web backend developer and java applet developer.  
