@@ -11,7 +11,7 @@ Wanna skip my introduction? [Click here to see my repos](#-bye)
 * Undergraduate (sophomore) @ Gachon Univ.
 * RA @ Gachon Univ. PRML Lab.
 * CIO @ Stella IT Inc.
-* RN Developer @ Paywork Inc.
+* Backend Developer @ Paywork Inc.
 
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/introduce/README.md). 
 
