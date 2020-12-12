@@ -21,8 +21,6 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 
 ## 🌐 Languages
 I can speak **Korean** since it is my native language, and can speak **English** as my secondary language.  
-I am only able to speak basic monologue with **Chinese**, *(preferably traditional one)*.  
-But I am almost impossible to speak *Japanese*, It's not my forte.  
 
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/lang/README.md).  
 
