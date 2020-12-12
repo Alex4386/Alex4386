@@ -10,18 +10,18 @@
 * Alex Park
 
 #### Additional Information
-If you are the one who are easily disturbed by 2 or more syllables in names, just like [RTGame](https://youtu.be/o3n48BM7mMI?t=859),
+If you are the one who are easily disturbed by 2 or more syllables in names, just like [RTGame](https://youtu.be/o3n48BM7mMI?t=859), You can call me `Alex`.  
 ```
 If your name got like more than 2 syllables, just calm down.  
 If your name got like more than 3 syllables, you gonna have a nickname.
 
                   - RTGame, who got tired of Japanese Name Conventions.  
 ```
-Call me just `Alex`. Thanks.  
 
 ## Scholar Status
 ### Currently...
-I am currently undergraduate (sophomore) in Gachon University and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
+I am currently undergraduate (sophomore) in Gachon University and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr). (Until: 2021-02)  
+**Prescheduled Military Leave will active at 2021-03~2023-03.**  
 
 ### Previously...
 I graduated [Yeouido Highschool](https://yeouido.hs.kr) at Febuary, 2019.  
