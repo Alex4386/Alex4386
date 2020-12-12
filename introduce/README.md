@@ -21,7 +21,7 @@ If your name got like more than 3 syllables, you gonna have a nickname.
 ## Scholar Status
 ### Currently...
 I am currently undergraduate (sophomore) in Gachon University and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr). (Until: 2021-02)  
-**Prescheduled Military Leave will active at 2021-03~2023-03.**  
+**Prescheduled Military Leave will be active at 2021-03~2023-03.**  
 
 ### Previously...
 I graduated [Yeouido Highschool](https://yeouido.hs.kr) at Febuary, 2019.  
