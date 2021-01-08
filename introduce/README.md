@@ -24,7 +24,7 @@ I am currently undergraduate (sophomore) in Gachon University and Research Assis
 **Prescheduled Military Leave will be active at 2021-03~2023-03.**  
 
 ### Previously...
-I graduated [Yeouido Highschool](https://yeouido.hs.kr) at Febuary, 2019.  
+I graduated [Yeouido Highschool](https://yeouido.sen.hs.kr) at Febuary, 2019.  
 
 ## Business Status
 ### Currently...
