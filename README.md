@@ -8,6 +8,8 @@ For English Speakers, you can call me both **Alex Park**, or the names above by 
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 🙋 I am...
+**Pre-scheduled military leave is will be activated in 2021-07 ~ 2023-01**
+
 * Undergraduate (sophomore) @ Gachon Univ.
 * RA @ Gachon Univ. PRML Lab.
 * CIO @ Stella IT Inc.
