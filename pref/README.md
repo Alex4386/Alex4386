@@ -7,7 +7,7 @@
 * RAM: DDR4 32GiB
 * GPU: AMD Radeon 555X
 * SSD: Apple® Proprietary PCI-e 1TiB
-* OS: [macOS Big Sur](https://www.apple.com/macos/big-sur/) 11.1
+* OS: [macOS Big Sur](https://www.apple.com/macos/big-sur/) 11.2
 
 ### 🧪 Lab Machine
 **Samsung Electronics MagicStation Desktop** with several upgrades  
