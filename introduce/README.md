@@ -20,10 +20,11 @@ If your name got like more than 3 syllables, you gonna have a nickname.
 
 ## Scholar Status
 ### Currently...
-I am currently undergraduate (sophomore) in Gachon University and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr). (Until: 2021-02)  
-**Prescheduled Military Leave will be active at 2021-03~2023-03.**  
+I have currently in military leave due to enforced military "duty" of Republic of Korea. In 2020, I was undergraduate (sophomore) in Gachon University.  
+**Estimated end of Military Leave is expected at: 2023-03**  
 
 ### Previously...
+I was a Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
 I graduated [Yeouido Highschool](http://yeouido.sen.hs.kr) at Febuary, 2019.  
 
 ## Business Status
@@ -34,7 +35,7 @@ I am currently at [Team-StarGarden](https://github.com/Team-StarGarden) as game 
 ### Formerly...
 I was System Administrator at [MintNetwork (webpage now defunct)](https://playmintnetwork.com) as their web backend developer and java applet developer.  
 I was Former Lead at [Team YeouidoTech](https://github.com/YeouidoTech).  
-I was at [Paywork Inc.](https://github.com/payworkteam) as Backend Developer and Maintenance.
+I was at [Paywork Inc.](https://github.com/payworkteam) as Backend Developer and Maintenance.  
 
 ## Works
 ### Personal
