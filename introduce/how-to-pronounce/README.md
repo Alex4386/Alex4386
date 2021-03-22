@@ -1,4 +1,6 @@
 # How to pronounce my name
+I know this is complicated. and My Korean name is one the 'hardest' to pronounce properly. (even to Native Koreans!)  
+It's OK to get it wrong, If you are concerned, You can just call me with English name, `Alex`.  
 
 ## Table of Contents
 * [Easy Mode](#easy-mode)
@@ -27,7 +29,7 @@ More adequate pronunciation sounds like this:
 희 (H(between oo and uh) -> i) - Do not pronounce like hui like Huawei. It's not.  
    You should change oo/uh to i quick and without having simillar pronounciation of 'wei' in Huawei.  
    
-   After I writing this, I started to hate korean phoneme system) 
+   After I wrote this, I started to hate korean phoneme system) 
 ```
 
 ## Korean Mastery
