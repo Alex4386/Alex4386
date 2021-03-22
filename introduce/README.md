@@ -10,8 +10,7 @@
 * Alex Park
 
 #### Additional Information
-If you are the one who are easily disturbed by 2 or more syllables in names, just like [RTGame](https://youtu.be/o3n48BM7mMI?t=859) or you are not sure you can pronounce that Korean Name like [this](https://youtu.be/p1RKkRCiU90).  
-You can call me `Alex`.  
+If you are the one who are easily disturbed by 2 or more syllables in names, just like [RTGame](https://youtu.be/o3n48BM7mMI?t=859) or you are not sure you can pronounce that Korean Name like [this](https://youtu.be/p1RKkRCiU90). You can call me `Alex`.  
 ```
 If your name got like more than 2 syllables, just calm down.  
 If your name got like more than 3 syllables, you gonna have a nickname.
