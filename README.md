@@ -50,6 +50,11 @@ Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4
 
 Want to see more contacts? (include gaming! and GPG Keys) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
 
+## 🔐 Crypto
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
+You can receive my GPG public key by clicking the badge above or [here](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
+
+
 ## ☕ Buy me a coffee
 <!--[![Buy me a coffee](https://img.shields.io/badge/Paypal-Buy%20me%20a%20coffee-004386?style=for-the-badge&logo=paypal)](https://paypal.me/alex4386)-->
 [![Stellar Lumens](https://img.shields.io/badge/Stellar%20Lumens-Buy%20me%20a%20coffee-004386?style=for-the-badge&logo=Stellar)](https://keybase.io/alex4386)
