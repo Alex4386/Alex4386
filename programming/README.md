@@ -16,6 +16,6 @@
 ![C++ (beginner)](https://img.shields.io/badge/C%2B%2B-beginner-darkgreen?style=for-the-badge&logo=c%2B%2B)
 ![Rust (beginner)](https://img.shields.io/badge/Rust-beginner-darkgreen?style=for-the-badge&logo=rust)
 ![React (beginner)](https://img.shields.io/badge/React-beginner-darkgreen?style=for-the-badge&logo=react)  
-![Vue (beginner)](https://img.shields.io/badge/Vue-beginner-darkgreen?style=for-the-badge&logo=vue)  
+![Vue (beginner)](https://img.shields.io/badge/Vue-beginner-darkgreen?style=for-the-badge&logo=vue.js)  
 
 [Return to profile](https://github.com/Alex4386)
