@@ -17,8 +17,4 @@
 [![Steam](https://img.shields.io/badge/Steam-alex4386-004386?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/Alex4386)
 [![Nintendo Switch Online](https://img.shields.io/badge/Nintendo%20Switch%20Online-ASK%20ME%20:%29-004386?style=for-the-badge&logo=nintendo%20switch)](https://steamcommunity.com/id/Alex4386)
 
-## 🔒 Encryption Keys
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
-You can receive my GPG public key by clicking the badge above or [here](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
-
 [Return to profile](https://github.com/Alex4386)
