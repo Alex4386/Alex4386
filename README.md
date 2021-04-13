@@ -16,7 +16,6 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 
 ## 📊 GitHub Stats
 [![alex4386's github stats](https://github-readme-stats.vercel.app/api?username=alex4386&show_icons=true&hide_border=true&count_private=true&title_color=004386&icon_color=004386)](https://github.com/alex4386)
-[![alex4386's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alex4386&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/alex4386)
 
 ## 🌐 Languages
 I can speak **Korean** since it is my native language, and can speak **English** as my secondary language.  
