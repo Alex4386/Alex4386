@@ -8,7 +8,8 @@
 ## 💬 Instant Messengers
 [![Discord](https://img.shields.io/badge/Discord-join!-004386?style=for-the-badge&logo=discord)](https://discord.com/invite/xpbMQPa)
 [![Telegram](https://img.shields.io/badge/Telegram-alex4386-004386?style=for-the-badge&logo=telegram)](https://t.me/Alex4386)
-[![Kakaotalk](https://img.shields.io/badge/Kakaotalk-alex4386-004386?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/me/Alex4386)
+[![Kakaotalk](https://img.shields.io/badge/Kakaotalk-alex4386-004386?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/me/Alex4386) 
+[![LINE](https://img.shields.io/badge/Line-psh010209-004386?style=for-the-badge&logo=line)](#)
 
 ## 📡 Personal Media Platforms
 [![Twitch](https://img.shields.io/badge/Twitch-alex4386-004386?style=for-the-badge&logo=twitch)](https://www.twitch.tv/alex4386)
