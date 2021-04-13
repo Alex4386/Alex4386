@@ -28,7 +28,7 @@ In 2020, I was undergraduate (sophomore) in Gachon University.
 **Estimated end of Military Leave is expected at: 2023-03**  
 
 ### Previously...
-I was a Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
+I was a Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr) (2019-07 ~ 2021-02).  
 I graduated [Yeouido Highschool](http://yeouido.sen.hs.kr) at Febuary, 2019.  
 
 ## Business Status
