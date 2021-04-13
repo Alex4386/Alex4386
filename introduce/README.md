@@ -55,6 +55,6 @@ I was at [Paywork Inc.](https://github.com/payworkteam) as Backend Developer and
 [![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=stella-it&repo=xengarden&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/stella-it/xengarden)  
 
 #### Miscellaneous
-[![Meiling](https://github-readme-stats.vercel.app/api/pin/?username=stella-it&repo=meiling&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/stella-it/meiling)  
+[![Meiling](https://github-readme-stats.vercel.app/api/pin/?username=meiling-gatekeeperit&repo=meiling&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/meiling-gatekeeper/meiling)  
 
 [Return to profile](https://github.com/Alex4386)
