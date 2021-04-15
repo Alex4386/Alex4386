@@ -25,7 +25,7 @@ So, You decided to learn how to pronounce my name properly! brilliant! here is [
 ### Currently...
 I have currently in military leave due to enforced military "duty" of Republic of Korea.  
 In 2020, I was undergraduate (sophomore) in Gachon University.  
-**Estimated end of Military Leave is expected at: 2023-03**  
+**Estimated end of Military Leave is expected at: 2023-05**  
 
 ### Previously...
 I was a Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr) (2019-07 ~ 2021-02).  
