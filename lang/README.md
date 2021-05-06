@@ -7,7 +7,7 @@
   * ~~North Korean dialect - Seriously? **NO.**~~
   
 * **English** 🇺🇸 - Secondary Language (fluent)
-  * 🇺🇸 American accent - (partially?) supported
+  * 🇺🇸 American accent - (partially?) supported. [Certifications](cert.en-US.md)
   * 🇬🇧 British accent - learning...
 
 ## 🤦 Language I currently have limited capabilities
