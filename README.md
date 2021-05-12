@@ -56,7 +56,8 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 ## ☕ Buy me a coffee
 <!--[![Buy me a coffee](https://img.shields.io/badge/Paypal-Buy%20me%20a%20coffee-004386?style=for-the-badge&logo=paypal)](https://paypal.me/alex4386)-->
-[![Stellar Lumens](https://img.shields.io/badge/Stellar%20Lumens-alex4386*keybase.io-004386?style=for-the-badge&logo=Stellar)](https://keybase.io/alex4386)
+[![Stellar Lumens](https://img.shields.io/badge/Stellar%20Lumens-alex4386*keybase.io-004386?style=for-the-badge&logo=Stellar)](https://keybase.io/alex4386)  
+[![Toss](https://img.shields.io/badge/Toss-alex4386-004386?style=for-the-badge&logo=Toss)](https://toss.me/alex4386)  
 
 <!--
 You can sponsor me by clicking badge above or clicking [here](https://paypal.me/alex4386).  
