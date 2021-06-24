@@ -32,6 +32,9 @@ I was a Research Assistant at [Pattern Recognition and Machine Learning Laborato
 I graduated [Yeouido Highschool](http://yeouido.sen.hs.kr) at Febuary, 2019.  
 
 ## Business Status
+### Scheduled
+I will be serving military service due to enforced "duty" in Republic of Korea as Technology Specialized Soldier (Computer dept.) in Republic of Korea Airforce.
+
 ### Currently...
 I am CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
 I am currently at [Team-StarGarden](https://github.com/Team-StarGarden) as game developer and web backend developer.  
