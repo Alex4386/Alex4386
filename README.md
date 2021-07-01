@@ -50,8 +50,8 @@ Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4
 Want to see more contacts? (include gaming! and GPG Keys) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
 
 ## 🔐 Crypto
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
-You can receive my GPG public key by clicking the badge above or [here](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=a7c7bf416ae3b5a60bf8cb8b647c79f2a2f47cd1)  
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-FDA040E4FD0BDE9416FB67FD3FF81EFDF7C9F02B-purple?style=for-the-badge)](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=fda040e4fd0bde9416fb67fd3ff81efdf7c9f02b)  
+You can receive my GPG public key by clicking the badge above or [here](https://keybase.io/alex4386/pgp_keys.asc?fingerprint=fda040e4fd0bde9416fb67fd3ff81efdf7c9f02b)  
 
 
 ## ☕ Buy me a coffee
