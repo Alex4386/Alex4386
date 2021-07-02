@@ -7,6 +7,10 @@ For English Speakers, you can call me both **Alex Park**, or the names above by 
 
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
+## 🙋 Heads up!
+If you are fan of Minecraft residing in South Korea, Please take a look at [Minecraft and Shutdown Act Drama](https://github.com/Alex4386/wcyd4minecraft).  
+Thank you!  
+
 ## 🙋 I am...
 **Pre-scheduled military leave will be activated in 2021-08 ~ 2023-05**
 
