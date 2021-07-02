@@ -8,7 +8,7 @@ For English Speakers, you can call me both **Alex Park**, or the names above by 
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 🙋 Heads up!
-If you are fan of Minecraft residing in South Korea, Please take a look at [Minecraft and Shutdown Act Drama](https://github.com/Alex4386/wcyd4minecraft).  
+If you are fan of Minecraft (or any equivalent video-game player) residing in South Korea, Please take a look at [Minecraft and Shutdown Act Drama](https://github.com/Alex4386/wcyd4minecraft).  
 Thank you!  
 
 ## 🙋 I am...
