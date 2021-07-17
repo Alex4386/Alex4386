@@ -32,14 +32,13 @@ I was a Research Assistant at [Pattern Recognition and Machine Learning Laborato
 I graduated [Yeouido Highschool](http://yeouido.sen.hs.kr) at Febuary, 2019.  
 
 ## Business Status
-### Scheduled
-I will be serving military service due to enforced "duty" in Republic of Korea as Technology Specialized Soldier (Computer dept.) in Republic of Korea Airforce.
-
 ### Currently...
-I am CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
-I am currently at [Team-StarGarden](https://github.com/Team-StarGarden) as game developer and web backend developer.  
+From August 2021, I will be serving military service as Technology Specialized Soldier at ROKAF.  
+Due to this and Military service law, I am no longer providing service in Stella IT and Team StarGarden.  
 
 ### Formerly...
+I was CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
+I developed games at [Team-StarGarden](https://github.com/Team-StarGarden).  
 I was System Administrator at [MintNetwork (webpage now defunct)](https://playmintnetwork.com) as their web backend developer and java applet developer.  
 I was Former Lead at [Team YeouidoTech](https://github.com/YeouidoTech).  
 I was at [Paywork Inc.](https://github.com/payworkteam) as Backend Developer and Maintenance.  
