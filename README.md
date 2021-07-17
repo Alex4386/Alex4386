@@ -7,14 +7,8 @@ For English Speakers, you can call me both **Alex Park**, or the names above by 
 
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
-## 🙋 Heads up!
-If you are fan of Minecraft (or any equivalent video-game player) residing in South Korea, Please take a look at [Minecraft and Shutdown Act Drama](https://github.com/Alex4386/wcyd4minecraft). [Korean](http://saveminecraft.kr)  
-Thank you!  
-
 ## 🙋 I am...
-**Pre-scheduled military leave will be activated in 2021-08 ~ 2023-05**
-
-* CIO @ Stella IT Inc.
+**I will be leaving for military service during 2021-08 ~ 2023-05 due to Military service law**
 
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/introduce/README.md). 
 
