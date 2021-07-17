@@ -8,7 +8,7 @@ For English Speakers, you can call me both **Alex Park**, or the names above by 
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 🙋 I am...
-**I will be leaving for military service during 2021-08 ~ 2023-05 due to Military service law.**
+**I will be leaving for military service during 2021-08 ~ 2023-05 due to Military service law.**  
 ~~No Internet and phones in training period 🤦 :(~~  
 
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/introduce/README.md). 
