@@ -9,7 +9,6 @@ Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 🙋 I am...
 **I am currently in military service during 2021-08 ~ 2023-05 due to Military service law.**  
-I don't have my phone yet, so my response will take awhile. :(  
 
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/introduce/README.md). 
 
