@@ -50,8 +50,12 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 - ~~Rust Language~~
 
 ## 👍 My preferences
+Just read this: [here](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
+
+<!--
 I am using [MacBook Pro (15-inch, 2018) Space Gray](https://support.apple.com/kb/SP776) as my daily driver.  
 Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4386/blob/master/pref/README.md).
+-->
 
 ## 📫 Contacts
 [![Facebook](https://img.shields.io/badge/Facebook-Sanghui%20Park-004386?style=for-the-badge&logo=facebook)](https://www.facebook.com/psh010209/)
