@@ -49,10 +49,11 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 - ~~Deep Neural Networks~~
 - ~~Rust Language~~
 
-## 👍 My preferences
+## 🖥️ Current Environemnt Setup
 Just read this: [here](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
 
 <!--
+## 👍 My preferences
 I am using [MacBook Pro (15-inch, 2018) Space Gray](https://support.apple.com/kb/SP776) as my daily driver.  
 Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4386/blob/master/pref/README.md).
 -->
