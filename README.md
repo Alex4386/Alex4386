@@ -3,9 +3,11 @@
 I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and programming environment they provide is **absolutely terrible**.   
   
 Therefore, Since most of the software are distributed in license which DOES NOT provide any sort of WARRANTY,  
-If my software <sub>(or any open-source software that is actively maintained by me: e.g. Most of projects in Stella IT OpenSource)</sub> has a problem, My response will be "It won't be fixed." or "It will be fixed in (very-long-period)."  
+If my software<sup>*</sup> has any issues, My response will be "It won't be fixed." or "It will be fixed in (very-long-period)."  
   
 Please expect **NO SUPPORT** at the moment. Thanks.  
+
+<sub>"My software" includes "Any open-source software that is actively maintained by me". (e.g. Most of projects in Stella IT OpenSource)</sub>
   
 <hr />
 
