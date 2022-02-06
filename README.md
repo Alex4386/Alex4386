@@ -32,8 +32,9 @@ My *forte* is:
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/programming/README.md). 
 
 ## 🌱 I’m currently learning ...
-- Deep Neural Networks
-- Rust Language
+- Tactical Fighting ~~or die~~
+- ~~Deep Neural Networks~~
+- ~~Rust Language~~
 
 ## 👍 My preferences
 I am using [MacBook Pro (15-inch, 2018) Space Gray](https://support.apple.com/kb/SP776) as my daily driver.  
