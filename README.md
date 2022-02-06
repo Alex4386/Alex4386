@@ -1,6 +1,6 @@
 <h1 align="center">Before asking me for anything, READ THIS!</h1>
 
-I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and programming environment they provide is **absolutely terrible**.   
+I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and even if I get to programming, programming environment they provide is **absolutely terrible**.   
   
 Therefore, Since most of the software are distributed in license which DOES NOT provide any sort of WARRANTY,  
 If my software<sup>*</sup> has any issues, My response will be "It won't be fixed." or "It will be fixed in (very-long-period)."  
