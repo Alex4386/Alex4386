@@ -1,9 +1,9 @@
 <h1 align="center">Before asking me for anything, READ THIS!</h1>
 
-I'm currently *"providing"* military service **which strictly prevents me from programming in full-time**.  
+I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and programming environment they provide is **absolutely terrible**.  
   
 Therefore, Since most of the software are distributed in license which DOES NOT provide any sort of WARRANTY,  
-If my software has a problem, My response to the issue or any sort would be take whole a-lot-of-time, and most of the time, won't be fixed.  
+If my software has a problem, My response will be "It won't be fixed." or "It will be fixed in (very-long-period)."  
   
 Please expect **NO SUPPORT** for my software at the moment. Thanks.  
   
