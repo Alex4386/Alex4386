@@ -8,5 +8,6 @@
   (You thought Ubuntu was bloated mess? ha! you were wrong! experience linux mint distro more bloated than Windows 11!)  
 
 Thanks to shitty OS *that I can't reinstall* with **ton of junkware using almost 3GB on idle**, This computer lags even when I open VSCode.  
+(IntelliJ? Computer shuts down by itself. Ha!)  
 
 [Return to profile](https://github.com/Alex4386)
