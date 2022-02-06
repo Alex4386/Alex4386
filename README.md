@@ -50,7 +50,7 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 - ~~Rust Language~~
 
 ## 🖥️ Current Environment Setup
-Just read this: [here](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
+[Click here to learn more](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
 
 <!--
 ## 👍 My preferences
