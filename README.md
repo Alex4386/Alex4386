@@ -1,3 +1,14 @@
+<h1 align="center">Before asking me for anything, READ THIS!</h1>
+
+I'm currently *"providing"* military service **which strictly prevents me from programming in full-time**.  
+  
+Therefore, Since most of the software are distributed in license which DOES NOT provide any sort of WARRANTY,  
+If my software has a problem, My response to the issue or any sort would be take whole a-lot-of-time, and most of the time, won't be fixed.  
+  
+Please expect **NO SUPPORT** for my software at the moment. Thanks.  
+  
+<hr />
+
 # 🙇 Hi! Welcome to my profile!
 Hi, My name is **Sanghui Park** (**Sanghee Park**, depending on your style of Korean pronunciation).  
 also known as **Alex4386**!  
