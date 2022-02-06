@@ -49,7 +49,7 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 - ~~Deep Neural Networks~~
 - ~~Rust Language~~
 
-## 🖥️ Current Environemnt Setup
+## 🖥️ Current Environment Setup
 Just read this: [here](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
 
 <!--
