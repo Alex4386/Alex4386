@@ -1,6 +1,6 @@
 <h1 align="center">Before asking me for anything, READ THIS!</h1>
 
-I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and even if I get to programming, programming environment they provide is **absolutely terrible**.   
+I'm currently *"providing"* military service **which strictly prevents me from programming in full-time** and even if I get to programming, programming environment they provide is **absolutely terrible** _(4GB of memory with $HOME on /tmp/) such wow)_.   
   
 Therefore, Since most of the software are distributed in license which DOES NOT provide any sort of WARRANTY,  
 If my software<sup>*</sup> has any issues, My response will be "It won't be fixed." or "It will be fixed in (very-long-period)."  
@@ -45,9 +45,10 @@ My *forte* is:
 For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/programming/README.md). 
 
 ## 🌱 I’m currently learning ...
-- Tactical Fighting ~~or die~~
-- ~~Deep Neural Networks~~
-- ~~Rust Language~~
+- Deep Neural Networks
+- Data Science
+- Rust Language
+- Embedded Hacking
 
 ## 🖥️ Current Environment Setup
 [Click here to learn more](https://github.com/Alex4386/Alex4386/blob/master/pref/mil.md) 🤦
