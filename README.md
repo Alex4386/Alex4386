@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="/egovframe-500.png" />
+<img src="/egovframe-500.svg" />
 
 </p>
 
